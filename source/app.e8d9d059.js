@@ -440,7 +440,7 @@
                 class: "dplugin-box",
                 style: {"margin-top": "0px", "margin-bottom": "0px", "text-align": "left"}
             }, [Object(a["g"])("div", {class: "dplugin-mobile dplugin-mobile-dImage dImageview"}, [Object(a["g"])("img", {
-                src: "请假外出、返校权限查询通行码_files/3916676.gif",
+                src: "source/3916676.gif",
                 style: {width: "100%", height: "100%"}
             })])])])], -1),
             U = Object(a["g"])("div", {class: ""}, [Object(a["g"])("div", {class: "pluginnames"}, [Object(a["g"])("span", {
@@ -465,7 +465,7 @@
                     "overflow-x": "auto"
                 }
             }, [Object(a["g"])("div", {class: "dplugin-mobile"}, [Object(a["g"])("img", {
-                src: "请假外出、返校权限查询通行码_files/outSquare.png",
+                src: "source/outSquare.png",
                 id: "Qrcode_11_qrcodecanvas",
                 height: "150",
                 width: "150",
