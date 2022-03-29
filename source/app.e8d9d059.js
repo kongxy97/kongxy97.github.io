@@ -426,7 +426,7 @@
                 class: "dplugin-box",
                 style: {"margin-top": "0px", "margin-bottom": "0px", "text-align": "center"}
             }, I = {class: "dplugin-mobile dplugin-mobile-dAvatar"},
-            z = {class: "dplugin-mobile-addfileed-box", style: {height: "100px", width: "100px", margin: "auto"}},
+            z = {class: "dplugin-mobile-addfileed-box", style: {height: "110px", width: "146px", margin: "auto"}},
             A = ["src"], C = Object(a["g"])("div", {class: "clear"}, null, -1),
             // E = {class: "mobile_pluginnames_hide"}, P = Object(a["g"])("div", {
             //                 class: "pluginnames",
