@@ -428,14 +428,10 @@
             }, I = {class: "dplugin-mobile dplugin-mobile-dAvatar"},
             z = {class: "dplugin-mobile-addfileed-box", style: {height: "100px", width: "100px", margin: "auto"}},
             A = ["src"], C = Object(a["g"])("div", {class: "clear"}, null, -1),
-            S = Object(a["g"])("div", {class: "mobile_pluginnames_hide"}, [Object(a["g"])("div", {class: "pluginnames"}, [Object(a["g"])("span", {
-                style: {
-                    color: "rgb(135, 135, 135)",
-                    "font-size": "14px",
-                    "font-family": "微软雅黑",
-                    "line-height": "22px"
-                }
-            }, "动态图")]), Object(a["g"])("div", {class: "plugin-allbox"}, [Object(a["g"])("div", {
+            // E = {class: "mobile_pluginnames_hide"}, P = Object(a["g"])("div", {
+            //                 class: "pluginnames",
+            //                 style: {"min-height": ".1rem", padding: "0 15px"}
+            S = Object(a["g"])("div", {class: "mobile_pluginnames_hide"}, [Object(a["g"])("div", {class: "pluginnames", style: {"min-height": ".1rem", padding: "0 15px"}}), Object(a["g"])("div", {class: "plugin-allbox"}, [Object(a["g"])("div", {
                 "data-key": "Image_36",
                 class: "dplugin-box",
                 style: {"margin-top": "0px", "margin-bottom": "0px", "text-align": "left"}
@@ -659,10 +655,11 @@
             return Object(a["r"])(), Object(a["f"])("div", d, [g, Object(a["g"])("div", b, [Object(a["g"])("div", r, [p, Object(a["g"])("img", {
                 src: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAYCAYAAACMcW/9AAAB4ElEQVRYR83VO0sDQRAA4Nm9LfMbBBEsBC1EEFGUJblcOEihP8Je8YnYiPhErf0Rlja729j4C6wUE1+o+AAtlMiaHTmJcsYkbi6R3FVX7Mx+Nzs7RwAAhBCCEOIG73F8KKU+UUqNI+JuHIEh03UAPUDE4ZhD34mUcg8AxmIPVUoNIOJhzKH7JABKKScAYDuOWES8SiQSnZ/QEnYaADZihj1mjI1wzm+/oaUxtUQIWYwJNo+IQ+l0+jrw/ICWKrsAAMstxt5prdt833/7cvyCthpLCDlzHGcgOO5wsSpCW4g9oZS6yWTyvPxEq0JbgL0wxnR5nvdSqe1qQoMApdQMIq7/c8/eaK3bwz1ZV0W/Fiul5hFx5Z+wuWKxOJTJZG5q5f+zoqE5OwcAq03G5hhjg+UXJ9LRh4Oa3Aa3hUKhI5vNvtp8vHVFm9wGl4yxXs75gw2y4sC3CWywsnmtdb/v+/c2e9Uc+DYJlFKTiLhlsza05hIAul3Xfa4z7vcvtJ4EQohZQsiaTUzwxwGAvlQq9WizPtJ4qpXYEpsv9eRTFGTkHi3fTEo5BQCbVRAXANAT5bjD+eq+9dUqUgV7ZIxJep53F7WSDV+mShsLIUYppSPGmASl9NRxnB3OeaFRZBD/ATVSvUcGtzefAAAAAElFTkSuQmCC",
                 alt: "",
-                class: "toptabla_img",
-                onClick: t[0] || (t[0] = function (t) {
-                    return e.$emit("clickToReturn")
-                })
+                class: "toptabla_img"
+                // ,
+                // onClick: t[0] || (t[0] = function (t) {
+                //     return e.$emit("clickToReturn")
+                // })
             })])]), u, Object(a["g"])("div", null, [Object(a["g"])("div", j, [Object(a["g"])("div", f, [m, Object(a["g"])("div", O, [Object(a["g"])("div", v, [Object(a["g"])("div", h, [Object(a["g"])("span", x, Object(a["z"])(n.personalInfo.name), 1)])])])]), Object(a["g"])("div", y, [k, Object(a["g"])("div", w, [Object(a["g"])("div", _, [Object(a["g"])("div", I, [Object(a["g"])("div", z, [Object(a["g"])("img", {
                 src: n.personalInfo.img,
                 style: {height: "100px", width: "100px"},
