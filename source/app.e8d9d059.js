@@ -426,7 +426,7 @@
                 class: "dplugin-box",
                 style: {"margin-top": "0px", "margin-bottom": "0px", "text-align": "center"}
             }, I = {class: "dplugin-mobile dplugin-mobile-dAvatar"},
-            z = {class: "dplugin-mobile-addfileed-box", style: {height: "110px", width: "146px", margin: "auto"}},
+            z = {class: "dplugin-mobile-addfileed-box", style: {height: "194px", width: "412px", margin: "auto"}},
             A = ["src"], C = Object(a["g"])("div", {class: "clear"}, null, -1),
             // E = {class: "mobile_pluginnames_hide"}, P = Object(a["g"])("div", {
             //                 class: "pluginnames",
@@ -662,7 +662,7 @@
                 // })
             })])]), u, Object(a["g"])("div", null, [Object(a["g"])("div", j, [Object(a["g"])("div", f, [m, Object(a["g"])("div", O, [Object(a["g"])("div", v, [Object(a["g"])("div", h, [Object(a["g"])("span", x, Object(a["z"])(n.personalInfo.name), 1)])])])]), Object(a["g"])("div", y, [k, Object(a["g"])("div", w, [Object(a["g"])("div", _, [Object(a["g"])("div", I, [Object(a["g"])("div", z, [Object(a["g"])("img", {
                 src: n.personalInfo.img,
-                style: {height: "100px", width: "100px"},
+                style: {height: "146px", width: "110px"},
                 alt: "photo"
             }, null, 8, A)]), C])])])]), S, U, Object(a["g"])("div", E, [P, Object(a["g"])("div", T, [Object(a["g"])("div", F, [Object(a["g"])("span", D, Object(a["z"])(n.personalInfo.inOut), 1)])])]), Object(a["g"])("div", R, [q, Object(a["g"])("div", J, [Object(a["g"])("div", B, [Object(a["g"])("div", M, [Object(a["g"])("span", V, Object(a["z"])(n.personalInfo.stdId), 1)])])])]), Object(a["g"])("div", Y, [Q, Object(a["g"])("div", N, [Object(a["g"])("div", G, [Object(a["g"])("div", K, [Object(a["g"])("span", W, Object(a["z"])(i.timeNow), 1)])])])]), Object(a["g"])("div", L, [Z, Object(a["g"])("div", H, [Object(a["g"])("div", X, [Object(a["g"])("div", $, [Object(a["g"])("span", ee, Object(a["z"])(n.personalInfo.dep), 1)])])])]), te, ne])]), Object(a["g"])("div", {
                 class: "wxformbtn m_start_btn",
